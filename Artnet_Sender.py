@@ -13,8 +13,6 @@ def send_data_to_server(data):
     sender.show()
     #sender.set_single_value(1, 255) # Just for testing, remove later
 
-x = 1
-
 listen_server = stupidArtnet.StupidArtnetServer()
 
 universe_0_listener = listen_server.register_listener(
