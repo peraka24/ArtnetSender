@@ -4,6 +4,7 @@ The server recieving data has to turn of the firewall, hehe. Still working on th
 
 Using the stupidArtnet library. 
 Install with pip install stupidartnet. 
+Info about stupidArtnet: https://github.com/cpvalente/stupidArtnet
 
 I used QLC (Quick Light Controller pluss) as a lightcontroller on my computer.
 Link: https://www.qlcplus.org/
