@@ -24,4 +24,4 @@ while True:
     sender.see_buffer()
     
 sender.stop()
-print("done")
+print("done")  #Just to check the program
