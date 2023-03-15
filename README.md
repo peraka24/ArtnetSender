@@ -18,3 +18,6 @@ Follow this instruction on the computer that is hosting the server, to prevent a
 https://lexisnexis.custhelp.com/app/answers/answer_view/a_id/1081611/~/adding-exceptions-to-the-windows-firewall
 Anyone who knows which port you are using, are able to connect to the computer, which is not good hehe. :)
 But it is better then to turn of the firewall. 
+
+
+Thanks to Andreas Bolla Berg for the help with the code. 
